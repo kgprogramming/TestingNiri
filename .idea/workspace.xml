@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e1e86d6-1fbe-4ee9-a8e9-35c9e2220377" name="Default Changelist" comment="git commit -m &quot;initial commit&quot;&#10;git push origin master" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/NIRI/Tests/PC/CheckIsItAllElementsDisplayed.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/NIRI/Tests/PC/CompareTextFromOneBlogPageToAnother.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/NIRI/Pages/BlogPage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/NIRI/Pages/PartnershipPage.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1bJLteXnIsYQ77Zv7JyJNceTU4v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Quantox\IdeaProjects\niri\Zadatak\src\main\resources" />
+      <recent name="C:\Users\Quantox\IdeaProjects\niri\Zadatak" />
+      <recent name="C:\Users\Quantox\IdeaProjects\niri\Zadatak\src\main\java" />
+      <recent name="C:\Users\Quantox\IdeaProjects\niri\Zadatak\src\main\java\NIRI\Pages" />
+      <recent name="C:\Users\Quantox\IdeaProjects\niri\Zadatak\Drivers\Windows" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Quantox\IdeaProjects\niri\Zadatak\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NIRI.Tests.Mobile" />
+      <recent name="NIRI.Tests.PC" />
+      <recent name="NIRI.SiteTools" />
+      <recent name="NIRI.Tests.NIRITest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./home/pepe/Desktop/Niri/countAllElementsOnPartnershipPage.xml">
+    <configuration name="CheckIsItAllElementsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Niri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIRI.Tests.PC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NIRI.Tests.PC" />
+      <option name="MAIN_CLASS_NAME" value="NIRI.Tests.PC.CheckIsItAllElementsDisplayed" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareTextFromOneBlogPageToAnother.compareTwoPagesFromBlog" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Niri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIRI.Tests.PC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NIRI.Tests.PC" />
+      <option name="MAIN_CLASS_NAME" value="NIRI.Tests.PC.CompareTextFromOneBlogPageToAnother" />
+      <option name="METHOD_NAME" value="compareTwoPagesFromBlog" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/pepe/Desktop/Niri/CheckFAQOnProductPage.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Niri" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CheckFAQOnProductPage.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/pepe/Desktop/Niri/CompareTextFromBlogPages.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Niri" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CompareTextFromBlogPages.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/pepe/Desktop/Niri/countAllElementsOnPartnershipPage.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Niri" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/countAllElementsOnPartnershipPage.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/pepe/Desktop/Niri/countAllElementsOnPartnershipPage.xml" />
+        <item itemvalue="TestNG./home/pepe/Desktop/Niri/CompareTextFromBlogPages.xml" />
+        <item itemvalue="TestNG./home/pepe/Desktop/Niri/CheckFAQOnProductPage.xml" />
+        <item itemvalue="TestNG.CheckIsItAllElementsDisplayed" />
+        <item itemvalue="TestNG.CompareTextFromOneBlogPageToAnother.compareTwoPagesFromBlog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e1e86d6-1fbe-4ee9-a8e9-35c9e2220377" name="Default Changelist" comment="" />
+      <created>1588345465421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588345465421</updated>
+      <workItem from="1588345468897" duration="13103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m &quot;initial commit&quot;&#10;git push origin master" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;initial commit&quot;&#10;git push origin master" />
+  </component>
+</project>

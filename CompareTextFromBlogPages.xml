@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="countAllElements">
+    <test verbose="100" name="WebDesktop - Chrome">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="NIRI.Tests.PC.CompareTextFromOneBlogPageToAnother"> </class>
+        </classes>
+    </test>
+</suite>
