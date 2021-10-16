@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e1e86d6-1fbe-4ee9-a8e9-35c9e2220377" name="Default Changelist" comment="git commit -m &quot;initial commit&quot;&#10;git push origin master" />
+    <list default="true" id="8e1e86d6-1fbe-4ee9-a8e9-35c9e2220377" name="Default Changelist" comment="git commit -m &quot;initial commit&quot;&#10;git push origin master">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

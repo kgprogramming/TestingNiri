@@ -1,6 +1,6 @@
 # Testing site https://niri-ic.com/home
 
-I got this task on my intership. For running project you need installed SDK 11 on your machine.
+I got this task on my internship.
 
 My task was to make tests for site NIRI. 
 
@@ -10,7 +10,7 @@ Second test: to verify that button lets talk is visible and clickable, verify th
 
 Third test: verifying that email is correct by using regex. To verify that mobile number doesn't have any letter. Verify does it mobile phone number have special characters.
 
-All tests can be run from testNG run, also it can be run from Xml file.
+All tests can be run from testNG run, also it can be run from Xml file. For running project you need installed SDK 11 on your machine.
 
-I used POM pattern, but I need to tell that I wasn't  make this framework.
+I used POM pattern, but I need to tell that I wasn't make this framework.
 
