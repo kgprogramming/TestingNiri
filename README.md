@@ -1,5 +1,6 @@
 # Testing site https://niri-ic.com/home
 
+### I am using linux and have chrome version 94, so if you use different OS or chrome version you will be need to add your chrome driver.
 I got this task on my internship.
 
 My task was to make tests for site NIRI. 
